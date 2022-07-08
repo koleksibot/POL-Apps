@@ -22,7 +22,7 @@
     "currency-formatter": "^1.5.9",
     "i18next": "^21.6.2",
     "lodash": "^4.17.21",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "password-validator": "^5.2.1",
     "qs": "^6.10.2",
     "react": "17.0.2",
